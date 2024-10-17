@@ -76,5 +76,3 @@ Confirm the destroy action with `yes`.
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 ```
-
-Replace placeholders like `your-subscription-id`, `your-resource-group-name`, etc., with the actual values relevant to your setup. Adjust the repository URL and license information as needed.
