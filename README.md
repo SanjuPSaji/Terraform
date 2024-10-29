@@ -1,6 +1,3 @@
-Here's a README file for the Terraform script:
-
-```markdown
 # AKS Cluster and ACR Deployment with Terraform
 
 This project sets up an Azure Kubernetes Service (AKS) cluster along with an Azure Container Registry (ACR) and deploys frontend and backend applications to the AKS cluster using Terraform.
@@ -72,7 +69,4 @@ Confirm the destroy action with `yes`.
 - Ensure that the Azure CLI is authenticated with the correct subscription before running Terraform commands.
 - The backend and frontend Docker images should be pushed to the ACR before applying the Terraform configuration.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-```
