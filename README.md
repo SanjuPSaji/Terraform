@@ -11,11 +11,6 @@ This project sets up an Azure Kubernetes Service (AKS) cluster along with an Azu
 ## Setup
 
 1. **Clone the Repository**
-   ```sh
-   git clone https://github.com/your-repo/aks-acr-terraform.git
-   cd aks-acr-terraform
-   ```
-
 2. **Configure Terraform Variables**
    
    Create a `terraform.tfvars` file in the root directory of the project and add your Azure subscription details:
